@@ -28,5 +28,5 @@ See `img2pixel -h`.
 ## xpm2tikz
 
 If you have problems installing RMagick you may want to use an older
-(crappier) version instead: [`pixel_raster_xpm`](https://github.com/Lapizistik/pixel_raster_xpm).
+(crappier) version instead: [`pixel_raster_xpm`](https://codeberg.org/Lapizistik/pixel_raster_xpm).
 It can only take simple xpm images as input and produces tikz.
